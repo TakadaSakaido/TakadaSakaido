@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TakadaSakaido</h1>
+<h1 align="center">Hi 👋, I'm Fauzan Alzuardi</h1>
 <h3 align="center">A passionate frontend, beckend, and game developer from Indonesia</h3>
 
 - 👨‍💻 All of my projects are available at [https://fauzanalzuardi.carrd.co](https://fauzanalzuardi.carrd.co)
