@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fauzan Alzuardi</h1>
-<h3 align="center">A passionate frontend, beckend, and game developer from Indonesia</h3>
+<h3 align="center">A passionate frontend Developer, and Game Developer from Indonesia</h3>
 
 - 👨‍💻 All of my projects are available at [https://fauzanalzuardi.carrd.co](https://fauzanalzuardi.carrd.co)
 
